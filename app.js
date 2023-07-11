@@ -1,6 +1,6 @@
 const ham = document.querySelector('.ham');
 const sidebar = document.querySelector('.sidebar');
-ham.addEventListener('click', function() {
+ham.addEventListener('click', function(event) {
     event.stopPropagation();
     sidebar.classList.toggle('active');
 });
