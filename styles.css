@@ -203,7 +203,6 @@ hr{
     padding-top: 1rem;
     font-weight: bold;
     text-align: center;
-    font-family: 'Libre Baskerville', serif;
 }
 
 @media (max-width: 677px){
@@ -241,6 +240,7 @@ hr{
     align-items: center;
     color: var(--primary-color);
     margin: auto;
+    font-family: 'Libre Baskerville', serif;
  }
 
 
