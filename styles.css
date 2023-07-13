@@ -119,9 +119,10 @@ hr{
     }
 
     .non-bullet-list{
-        
             display: none;
-        
+    }
+    .footer ul li a p{
+        display: none;
     }
   
     .sidebar {
@@ -131,6 +132,12 @@ hr{
     .sidebar.active {
       display: block;
     }
+  }
+
+  .footer ul li a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
 .list-inline{
