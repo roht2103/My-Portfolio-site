@@ -33,6 +33,6 @@ I hope my blogs provide useful insights and tips to fellow developers and enthus
 Feel free to get in touch with me for collaboration or any inquiries. You can reach me via email at [rohitthorat680@example.com](mailto:rohitthorat680@example.com) or connect with me on [linkedin](linkedin.com/in/rohit-thorat-502566246/).
 
 # Uploaded here👇
-[[httpsrohitt.netlify.app](https://rohitt.netlify.app/)]
+[[httpsrohitt.netlify.app](rohitt.netlify.app/)]
 
 Thank you for visiting my portfolio website. I look forward to connecting with you and sharing my passion for web development!
