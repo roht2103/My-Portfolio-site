@@ -113,7 +113,7 @@ hr{
     display: none;
     cursor: pointer;
 }
-  @media (max-width: 550px) {
+  @media (max-width: 650px) {
     .ham {
       display: block;
     }
