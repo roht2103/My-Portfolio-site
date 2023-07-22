@@ -167,8 +167,14 @@ hr{
     justify-content: space-between;
     align-items: center;
     /* height: 5rem; */
-    padding: 1rem;
+    padding: 1rem 4rem;
     /* height: 6rem; */
+}
+
+@media(max-width:1000px){
+    .navigation{
+        padding: 1rem;
+    }
 }
 
 .navigation .link{
