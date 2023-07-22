@@ -30,7 +30,7 @@ I hope my blogs provide useful insights and tips to fellow developers and enthus
 
 ## Contact
 
-Feel free to get in touch with me for collaboration or any inquiries. You can reach me via email at [rohitthorat680@example.com](mailto:rohitthorat680@example.com) or connect with me on [linkedin](linkedin.com/in/rohit-thorat-502566246/).
+Feel free to get in touch with me for collaboration or any inquiries. You can reach me via email at [rohitthorat680@example.com](mailto:rohitthorat680@example.com) or connect with me on [linkedin](https://linkedin.com/in/rohit-thorat-502566246).
 
 # Uploaded here👇
 [rohitt.netlify.app](https://rohitt.netlify.app/)
