@@ -83,6 +83,7 @@ hr {
 	align-self: flex-end;
 	list-style: none;
 	font-size: 1.2rem;
+	z-index: 3;
 }
 .sidebar .sidebar-li .sidebar-link {
 	color: black;
@@ -192,26 +193,39 @@ hr {
 	font-weight: bold;
 }
 
+
 .hero {
 	/* padding: 0.5rem; */
 	display: flex;
+	justify-content: center;
 	align-items: center;
 	flex-direction: column;
+}
+.home-hero{
+	flex-direction: row;
 }
 
 .hero .hero-img {
 	max-width: 600px;
 	display: block;
-	margin: auto;
+	/* margin: auto; */
 }
 
 .hero p {
 	font-size: 3rem;
 	padding-top: 1rem;
 	font-weight: bold;
-	text-align: center;
+	/* text-align: center; */
 }
 
+
+
+@media (max-width: 1000px) {
+	.home-hero{
+		flex-direction: column-reverse;
+		gap: 1rem;
+	}
+}
 @media (max-width: 677px) {
 	.hero p {
 		font-size: 2.5rem;
@@ -302,4 +316,8 @@ hr {
 .project-desc {
 	margin: 1rem 0rem;
 	margin-bottom: 2rem;
+}
+
+.home-hero{
+	height: 90vh;
 }
