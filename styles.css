@@ -218,7 +218,9 @@ hr {
 	/* text-align: center; */
 }
 
-
+.home-hero{
+	height: 90vh;
+}
 
 @media (max-width: 1000px) {
 	.home-hero{
@@ -319,6 +321,3 @@ hr {
 	margin-bottom: 2rem;
 }
 
-.home-hero{
-	height: 90vh;
-}
