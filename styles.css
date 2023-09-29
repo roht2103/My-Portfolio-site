@@ -39,7 +39,7 @@ body {
 	color: #000000;
 }
 .link-primary {
-	max-width: 140px;
+	/* max-width: 140px; */
 	padding: 0.6rem 2rem;
 	background-color: var(--primary-color);
 	color: #fff;
@@ -321,3 +321,10 @@ hr {
 	margin-bottom: 2rem;
 }
 
+.container-center span{
+	display: flex;
+	gap: .3rem;
+	/* border: 1px solid; */
+	height: fit-content;
+	width: fit-content;
+}
