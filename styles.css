@@ -266,7 +266,11 @@ hr {
 	margin: auto;
 	font-family: 'Libre Baskerville', serif;
 }
-
+.link-icons {
+	text-decoration: none;
+	color: white;
+	font-size: large;
+}
 .section {
 	padding: 1rem;
 	align-items: center;
